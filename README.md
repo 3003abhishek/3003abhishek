@@ -44,12 +44,12 @@ _blank">Resume</a>
 <h3 align="left">GitHub Stats: </h3>
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=priyanshupatil&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/></br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshupatil&theme=dark&hide_border=false)<br/></br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshupatil&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=3003abhishek&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/></br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=3003abhishek&theme=dark&hide_border=false)<br/></br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=3003abhishek&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Kashif Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=priyanshupatil&theme=react-dark&hide_border=true" /></a>
+  <a><img alt="Abhishek Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=3003abhishek&theme=react-dark&hide_border=true" /></a>
 
 
 <br> 
