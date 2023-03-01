@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React,NodeJS,Redux**
 
-- 👨‍💻 All of my projects are available at  <a href="https://drive.google.com/file/d/1BJEbGf9EUvbjV5OwCTlqJqKcSgVc_MlD/view?usp=sharing](https://3003abhishek.github.io/)" target="_blank">Portfolio</a>
+- 👨‍💻 All of my projects are available at  <a href="https://3003abhishek.github.io/" target="_blank">Portfolio</a>
 
 - 📫 How to reach me **3003abhishek.jha@gmail.com**
 
